@@ -1,0 +1,12 @@
+# How Does Data Cleaning Work
+
+HockeyStack’s data model is designed to address complex data integration challenges that arise in modern marketing and CRM systems. Unlike traditional object-based models used in systems like Salesforce or HubSpot, HockeyStack utilizes an action-based unified data model. This model is tailored to capture a wide array of customer interactions in a flexible and scalable manner.
+
+**Data Cleaning and Merging Principles**
+
+HockeyStack’s approach to data cleaning and merging involves the use of key attributes such as company domain, company name, and email linked to contact names. These identifiers play a crucial role in the system’s ability to accurately consolidate and manage data.
+
+1. Action-Based Data Handling: In HockeyStack’s unified model, each customer interaction is recorded as an “Action,” which includes a timestamp and details about the entity involved—either an individual or a company. This setup allows for the dynamic recording of interactions across various channels and stages of the customer journey.
+2. Shared Properties: To manage data consistency and accuracy, HockeyStack employs “Shared Properties,” a structure that maintains the latest state of entities like deals or campaigns. These properties are linked to actions via identifiers like “Deal ID” or “Company ID,” ensuring that updates in one area are reflected across related actions. This method significantly enhances the accuracy of data representation by maintaining current information about entities and their interactions.
+3. Merging Data: HockeyStack leverages attributes such as company domain, name, and associated emails to merge and de-duplicate records effectively. This process ensures that all actions related to a specific entity are accurately consolidated, providing a comprehensive view of the entity’s interactions with the company. By using these key identifiers, HockeyStack can create a robust and reliable dataset that is free from redundancies and inconsistencies.
+4. Integration and Processing: The system integrates data from various sources seamlessly, utilizing third-party integrations to enrich and expand the actionable data within the platform. This integration capability is critical for maintaining a high-resolution data model that supports advanced analytics and reporting.
