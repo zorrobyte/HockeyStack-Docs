@@ -1,1 +1,0 @@
-# How many words? (not counting instructions provided by us)
