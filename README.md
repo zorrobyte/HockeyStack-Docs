@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # HockeyStack Documentation
 
 ## HockeyStack Documentation
