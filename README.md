@@ -1,88 +1,69 @@
----
-hidden: true
----
+# HockeyStack Documentation
 
-# ActiveCampaign API Errors
+## HockeyStack Documentation
 
-## ActiveCampaign API Errors
+[Must Reads](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/Must Reads 3c5003123402468b93ad1ba878ca71b1.md>)
 
-## Headers
+## Setup
 
-```json
+[Installing the Website Tracker](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/Installing the Website Tracker 463e0f55879348a3b8c30db44258b1ac.md>)
 
-{
-"Accept": "application/json, text/plain, */*",
-"Api-Token": "8a54e2648f91bf2d87c7847c6b9778e0899615db9a895cd6a672687250d20366fcd72ee4",
-"User-Agent": "axios/0.21.4"
-}
-```
+[Integrations](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/Integrations 42cfee82e46b412792a90e73fe508246.md>)
 
-## Requests
+## A Look Inside
 
-*   [https://ac.api-us1.com/api/3/activities](https://ac.api-us1.com/api/3/activities)
+[Analytics Terminology](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/Analytics Terminology d6523013be7d483c91b1d8e9a36a6b9f.md>)
 
-    ### Status
+[Data Visualization](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/Data Visualization e6f7b33d787e40aa8bfb5a07b1254a47.md>)
 
-    `500 - Internal Server Error`
+[Web Analytics Dashboard](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/Web Analytics Dashboard a5cec589162141b8bdeedb6d8b1d35a2.md>)
 
-    ### Response
+[Journeys](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/Journeys e06152bd1dbe426f997090bb63204cae.md>)
 
-    ```xml
-    <?xml version="1.0" encoding="iso-8859-1"?>
-    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-    "[http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd](http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd)">
-    <html xmlns="[http://www.w3.org/1999/xhtml](http://www.w3.org/1999/xhtml)" xml:lang="en" lang="en">
-    <head>
-    <title>500 Internal Server Error</title>
-    </head>
-    <body>
-    <h1>500 Internal Server Error</h1>
-    </body>
-    </html>
-    ```
+[Filtering](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/Filtering 23420f7a67d140b7ab009ffea5a3b90c.md>)
 
-    ### Query Parameters
+[Goals](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/Goals af248f0d9ad34dcfa78cd7f6178e5540.md>)
 
-    ```json
-    {
-    "after": "2022-10-23T16:46:08+00:00",
-    "include": "reference.link,reference.contact,reference.message,reference.log,reference.log.message",
-    "limit": 100,
-    "offset": 4600,
-    "orders[tstamp]": "ASC"
-    }
-    ```
-*   [https://ac.api-us1.com/api/3/contacts/269413](https://ac.api-us1.com/api/3/contacts/269413)
+[Funnels](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/Funnels 7ab2c9938ebb4ec2bf5b87d4fc9c2bdc.md>)
 
-    ### Status
+[Segments](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/Segments de8b0bcd8dcf4b949175099f1040c0d6.md>)
 
-    `502 - Bad Gateway`
+[Settings](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/Settings eddbd1048347454f916cba8ee711dd83.md>)
 
-    ### Response
+[Account Intent Scoring](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/Account Intent Scoring 38aa533b3bb14c4396e2315bdb59a764.md>)
 
-    ```html
-    <html>
-    <head><title>502 Bad Gateway</title></head>
-    <body>
-    <center><h1>502 Bad Gateway</h1></center>
-    <hr><center>cloudflare</center>
-    </body>
-    </html>
-    ```
-*   [https://ac.api-us1.com/api/3/activities](https://ac.api-us1.com/api/3/activities)
+## Getting the Most Out of HockeyStack
 
-    ### Status
+[Surveys](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/Surveys a535afd39a104e19a909af48be886cae.md>)
 
-    `504 - Gateway Timeout`
+[Advanced Features](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/Advanced Features db30cc843c1340ad8021a35a3a4237f3.md>)
 
-    ### Query Parameters
+[API](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/API 8d89acfdfc234e0a9b3614aea2a421e5.md>)
 
-    ```json
-    {
-    "after": "2022-10-23T15:17:32+00:00",
-    "include": "reference.link,reference.contact,reference.message,reference.log,reference.log.message",
-    "limit": 100,
-    "offset": 9900,
-    "orders[tstamp]": "ASC"
-    }
-    ```
+[Audience Syncs](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/Audience Syncs 10f158c6832d439bb875924901b07389.md>)
+
+[Report Bugs & Send Feedback](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/Report Bugs & Send Feedback 883f75565eb646fb919ac3b50f8140ab.md>)
+
+[Guides](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/Guides a67f36bfe4fd43b784aa18c8b52daef0.md>)
+
+[Offline Conversions](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/Offline Conversions a1dff0950e2844a9bef071e37a79823c.md>)
+
+## Technical Info
+
+[Tracking](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/Tracking 2f62e16393b748f79a19e2460ec432a5.md>)
+
+[How We Process Data from Third-Party Integrations](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/How We Process Data from Third-Party Integrations eb466524309340dfaec2fc8114968d1a.md>)
+
+[Random Forest Algorithms](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/Random Forest Algorithms b7efcc53ff574ba1892f30196b97b18b.md>)
+
+[How Does Data Cleaning Work](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/How Does Data Cleaning Work da2f8fe0a7a54834a39d33cc7c0977d7.md>)
+
+## Reference
+
+[UTM Parameters](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/UTM Parameters 09aa0a4f2c334c3c9154256e6d51e0df.md>)
+
+[HockeyStack Academy](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/HockeyStack Academy b73ec36249c9464fbb9fe4acdf0a21f0.md>)
+
+[📹 Video Library](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9/📹 Video Library f41f8f21b2b644b8891d739f50bcb32f.md>)
+
+🤔 Still have questions? Reach out to us through Slack, or through \[hello@hockeystack.com]\(mailto:hello@hockeystack.com)🔒 For security inquiries, reach out through \[security@hockeystack.com]\(mailto:security@hockeystack.com) For privacy inquiries, reach out through \[privacy@hockeystack.com]\(mailto:privacy@hockeystack.com)

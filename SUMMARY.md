@@ -1,10 +1,10 @@
 # Table of contents
 
-* [ActiveCampaign API Errors](README.md)
+* [HockeyStack Documentation](README.md)
+* [ActiveCampaign API Errors](<README (1).md>)
 * [Customer-Specific Knowledge Base](<Public Documents 8383bcad2147454ca50d6ed0444f0939/Customer-Specific Knowledge Base fd79b91049394e14912e4fd96a27c50a.md>)
 * [HockeyStack Changelog](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Changelog d6ddd0b8da5c4b3aa5ab124dfc73ae72.md>)
 * [HockeyStack Data Security Policies](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Data Security Policies 7bf606cfefb240aa89ac502588b881a2.md>)
-* [HockeyStack Documentation](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Documentation 9af1afd1ffc94987bfd890e17d20eee9.md>)
 * [HockeyStack Knowledge Base](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Knowledge Base 0520434992184e88b790eccbdd03f331.md>)
 * [HockeyStack Partners](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Partners 94c16291171b47899e17d95fa37b800c.md>)
 * [HockeyStack Raw Data Access](<Public Documents 8383bcad2147454ca50d6ed0444f0939/HockeyStack Raw Data Access 8ff16975ead443648d9583530943f694.md>)
