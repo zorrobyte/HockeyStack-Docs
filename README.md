@@ -1,6 +1,8 @@
-# ActiveCampaign API Errors
+# ActiveCampaign API Errors 6cd432c1745b4af2b62a0f4b9b8e914d
 
-# Headers
+## ActiveCampaign API Errors
+
+## Headers
 
 ```json
 
@@ -11,16 +13,16 @@
 }
 ```
 
-# Requests
+## Requests
 
-- [https://ac.api-us1.com/api/3/activities](https://ac.api-us1.com/api/3/activities)
-    
-    ## Status
-    
+*   [https://ac.api-us1.com/api/3/activities](https://ac.api-us1.com/api/3/activities)
+
+    ### Status
+
     `500 - Internal Server Error`
-    
-    ## Response
-    
+
+    ### Response
+
     ```xml
     <?xml version="1.0" encoding="iso-8859-1"?>
     <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
@@ -34,9 +36,9 @@
     </body>
     </html>
     ```
-    
-    ## Query Parameters
-    
+
+    ### Query Parameters
+
     ```json
     {
     "after": "2022-10-23T16:46:08+00:00",
@@ -46,15 +48,14 @@
     "orders[tstamp]": "ASC"
     }
     ```
-    
-- [https://ac.api-us1.com/api/3/contacts/269413](https://ac.api-us1.com/api/3/contacts/269413)
-    
-    ## Status
-    
+*   [https://ac.api-us1.com/api/3/contacts/269413](https://ac.api-us1.com/api/3/contacts/269413)
+
+    ### Status
+
     `502 - Bad Gateway`
-    
-    ## Response
-    
+
+    ### Response
+
     ```html
     <html>
     <head><title>502 Bad Gateway</title></head>
@@ -64,15 +65,14 @@
     </body>
     </html>
     ```
-    
-- [https://ac.api-us1.com/api/3/activities](https://ac.api-us1.com/api/3/activities)
-    
-    ## Status
-    
+*   [https://ac.api-us1.com/api/3/activities](https://ac.api-us1.com/api/3/activities)
+
+    ### Status
+
     `504 - Gateway Timeout`
-    
-    ## Query Parameters
-    
+
+    ### Query Parameters
+
     ```json
     {
     "after": "2022-10-23T15:17:32+00:00",

@@ -4,11 +4,11 @@ Created: June 7, 2023 5:53 AM
 
 Though your long-term goal is to create demand for your company, there are some other goals that you should aim for along the way:
 
-- **Increased engagement**: you want more relevant engagement (conversations, support, etc. vs. meaningless comments like ‘I agree’) from relevant people (i.e. folks in your ICP, your customers, prospects, or people in your field vs. random people from random professions)
-- I**ncreased followers**: You want more followers, but you want to make sure you’re attracting a specific group of people, rather than anyone and everyone
-- **Increased performance**: as you begin to understand your audience more and more, your posts should gradually perform better over time
-- **Increased output**: by refining your strategy over time and cutting down on ideating/writing time, you’ll be able to increase your weekly output
-- **More opportunities**:  Seeing a rise in opportunities like podcast invites, consultation/side-gigs offers, etc., is a good sign that what you’re doing is working
+* **Increased engagement**: you want more relevant engagement (conversations, support, etc. vs. meaningless comments like ‘I agree’) from relevant people (i.e. folks in your ICP, your customers, prospects, or people in your field vs. random people from random professions)
+* I**ncreased followers**: You want more followers, but you want to make sure you’re attracting a specific group of people, rather than anyone and everyone
+* **Increased performance**: as you begin to understand your audience more and more, your posts should gradually perform better over time
+* **Increased output**: by refining your strategy over time and cutting down on ideating/writing time, you’ll be able to increase your weekly output
+* **More opportunities**:  Seeing a rise in opportunities like podcast invites, consultation/side-gigs offers, etc., is a good sign that what you’re doing is working
 
 ## Parting Advice
 
