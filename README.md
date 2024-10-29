@@ -1,4 +1,8 @@
-# ActiveCampaign API Errors 6cd432c1745b4af2b62a0f4b9b8e914d
+---
+hidden: true
+---
+
+# ActiveCampaign API Errors
 
 ## ActiveCampaign API Errors
 
