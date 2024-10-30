@@ -1,2 +1,0 @@
-# Salesforce-Pulled-Objects-List
-
