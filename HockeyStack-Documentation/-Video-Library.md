@@ -1,3 +1,3 @@
-# 📹 Video Library
+# Video Library
 
-[Video Library ](-Video-Library/Video-Library.csv)
+[Video Library](-Video-Library/Video-Library.csv)

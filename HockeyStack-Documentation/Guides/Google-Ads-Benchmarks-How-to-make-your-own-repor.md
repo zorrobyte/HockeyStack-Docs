@@ -22,8 +22,8 @@ Now that you have selected the date range, we will be adding the Date to a break
 
 Next, we will breakdown into either:
 
-- Source - if you have set up source properties to show Paid Social, Organic Social, Paid Search, Organic Search, Affiliate, Referral etc.
-- UTM Source and UTM Medium - if you don’t have the Source (or similar) property set up in the HockeyStack
+* Source - if you have set up source properties to show Paid Social, Organic Social, Paid Search, Organic Search, Affiliate, Referral etc.
+* UTM Source and UTM Medium - if you don’t have the Source (or similar) property set up in the HockeyStack
 
 In this example, we will use UTM Source and UTM Medium. You are more than welcome to add UTM Term if you want to get more granular with the data, for example, if your UTM Term mentions Keywords or Broad/Phrase match.
 
@@ -35,16 +35,14 @@ Next, we will add 3 Paid Ads Metrics columns.
 
 ![Untitled](Google-Ads-Benchmarks-How-to-make-your-own-repor/Untitled-6.png)
 
-Followed by that, we will add another column, this time Website Metrics (1)  -> Pageviews (2)
+Followed by that, we will add another column, this time Website Metrics (1)  -> Pageviews (2)
 
 ![Untitled](Google-Ads-Benchmarks-How-to-make-your-own-repor/Untitled-7.png)
 
 Finally, we will be adding Lead, Pipeline, and Revenue Data. HockeyStack allows you to customise the definition of these goals, so they may vary between companies. For the purpose of this example, we have 3 goals that we will be using
 
 1. MQL defined as Goal: MQL, analysed on Company Level property
-
 2. Pipeline, defined as Goal: Deal Created, with Deal Amount property
-
 3. Revenue, defined as Deal Closed Won, with Deal Amount property
 
 In order to add them, we will be creating extra 3 columns in the report
